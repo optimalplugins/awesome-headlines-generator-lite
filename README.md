@@ -1,0 +1,1 @@
+# awesome-headlines-generator-lite
