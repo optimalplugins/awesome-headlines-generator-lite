@@ -1,0 +1,42 @@
+#optimal-headline-meta-box {
+	margin-top: 5px;
+	margin-bottom: 20px !important;
+}
+
+#optimal-headline-col1 {
+	width: 50px !important;
+}
+
+#optimal-headline-col2 {
+	width: 100%;
+}
+
+#optimal-headline-col3 {
+	width: 50px !important;
+}
+
+#optimal-headline-topic {
+	width: 100%;
+}
+
+#optimal-headline-items-wrap {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+#optimal-headline-items {
+	display: block;
+}
+
+#optimal-headline-items li{
+	cursor:pointer;
+}
+
+#optimal-headline-items li:hover{
+	background:#F5F5F5;
+	Color:#000;
+}
+
+#optimal-headline-items li{
+	padding: 5px 5px 5px 0px;
+}

@@ -1,0 +1,26 @@
+#optimal-banner{
+    background: url('banner-bg.png');
+    min-height: 50px;
+    border-radius: 3px;
+    padding: 25px 15px;
+    overflow: hidden;
+    margin-right: 21px;
+    margin-bottom: 10px;
+}
+.optimal-banner-space{
+    height: 15px;
+}
+
+#optimal-plugins-logo{
+    width:440px;
+    height:100px;
+    background: url('optimal-banner.jpg');
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#upgrade {
+    margin-top:60px;
+    width: 120px;
+    float: right;
+}
